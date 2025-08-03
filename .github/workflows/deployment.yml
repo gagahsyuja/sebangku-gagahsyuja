@@ -1,4 +1,4 @@
-name: Deploy to Vercel
+name: Vulnerability Scanning and Deploy to Vercel
 
 on:
   push:
